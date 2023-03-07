@@ -38,4 +38,4 @@ Saída: Italia ganhou 4 titulos mundiais
 Diferença entre break e continue:
 A diferença é que o break, quando for executado, sai do bloco do laço abruptamente, enquanto continue apenas pula para próxima iteração.
 
-![image](https://user-images.githubusercontent.com/19577547/223461887-a9ebddce-20c5-4e08-ad57-56816994267e.png)
+![image](https://user-images.githubusercontent.com/19577547/223462125-fa465dcd-98b7-42ef-ad15-cef079c1ffaf.png)
